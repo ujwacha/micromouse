@@ -1,0 +1,61 @@
+    /* update_cunstate(get_thing(data)); */
+
+    /* int concurrent = check_concurrency(); */
+
+    /* if (concurrent < 0) { */
+    /*   continue; */
+    /* } */
+
+    /* /\* if (concurrent == prev_cunstate) { *\/ */
+    /* /\*   continue; *\/ */
+    /* /\* } *\/ */
+
+    /* move_two(concurrent); */
+
+    /* int jun = detect_junction(); */
+
+    /* toggle_state(); */
+
+
+    /* gpio_put(LED_PIN, 0); */
+
+    /* printf("%i\n", data); */
+
+    /* gpio_put(LED_PIN, 1); */
+
+
+    /* switch (get_thing(data)){ */
+    /* case FULL: */
+    /*   printf("FULL\n"); */
+    /*   break; */
+      
+    /* case MID: */
+    /*   printf("MID\n"); */
+    /*   break; */
+      
+    /* case LFT: */
+    /*   printf("LFT\n"); */
+    /*   break; */
+      
+    /* case RIG: */
+    /*   printf("RIG\n"); */
+    /*   break; */
+      
+    /* case NUL: */
+    /*   printf("NUL\n"); */
+    /*   break; */
+      
+    /* case TT: */
+    /*   printf("TT\n"); */
+    /*   break; */
+      
+    /* case JPT: */
+    /*   printf("JPT\n"); */
+    /*   break; */
+      
+    /* } */
+    
+    
+
+
+

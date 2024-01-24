@@ -1,0 +1,15 @@
+#define DEF_SPEED 150;
+
+struct diff_motors {
+  int a;
+  int b;
+};
+
+struct diff_motors get_diff(int pidout) {
+
+  struct diff_motors retval ;
+
+  retval.a = DEF_SPEED + pidout;
+
+  retval.b = DEF_SPEED + pidout;
+}

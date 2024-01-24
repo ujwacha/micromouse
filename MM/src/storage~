@@ -1,0 +1,19 @@
+    /* update_cunstate(get_thing(data)); */
+
+    /* int concurrent = check_concurrency(); */
+
+    /* if (concurrent < 0) { */
+    /*   continue; */
+    /* } */
+
+    /* /\* if (concurrent == prev_cunstate) { *\/ */
+    /* /\*   continue; *\/ */
+    /* /\* } *\/ */
+
+    /* move_two(concurrent); */
+
+    /* int jun = detect_junction(); */
+
+    /* toggle_state(); */
+
+

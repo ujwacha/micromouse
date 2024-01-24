@@ -1,0 +1,10 @@
+#define ENA 11
+#define IN1 12 
+#define IN2 17 
+#define IN3 10
+#define IN4 9
+#define ENB 8
+
+
+
+
